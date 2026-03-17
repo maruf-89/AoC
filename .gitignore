@@ -30,3 +30,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+*.txt
+!src/aoc/y2020/input_day1.txt
+!src/aoc/y2015/input_day2.txt
+!src/aoc/y2017/input_day4.txt
