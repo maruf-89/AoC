@@ -1,0 +1,10 @@
+Denna fil ska innehålla din personliga input från Advent of Code 2015, Dag 2.
+
+Hämta din input här: https://adventofcode.com/2015/day/2/input
+(Du måste vara inloggad på adventofcode.com)
+
+Gör så här:
+1. Gå till länken ovan
+2. Kopiera all text
+3. Klistra in här och ersätt all text i den här filen
+4. Kör Day2_WrappingPaper.kt" > src/aoc/y2015/input_day2.txt

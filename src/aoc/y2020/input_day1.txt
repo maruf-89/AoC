@@ -1,0 +1,10 @@
+Denna fil ska innehålla din personliga input från Advent of Code 2020, Dag 1.
+
+Hämta din input här: https://adventofcode.com/2020/day/1/input
+(Du måste vara inloggad på adventofcode.com)
+
+Gör så här:
+1. Gå till länken ovan
+2. Kopiera all text
+3. Klistra in här och ersätt all text i den här filen
+4. Kör Day1_ReportRepair.kt" > src/aoc/y2020/input_day1.txt

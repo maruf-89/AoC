@@ -1,0 +1,10 @@
+Denna fil ska innehålla din personliga input från Advent of Code 2017, Dag 4.
+
+Hämta din input här: https://adventofcode.com/2017/day/4/input
+(Du måste vara inloggad på adventofcode.com)
+
+Gör så här:
+1. Gå till länken ovan
+2. Kopiera all text
+3. Klistra in här och ersätt all text i den här filen
+4. Kör Day4_HighEntropyPassphrases.kt" > src/aoc/y2017/input_day4.txt
